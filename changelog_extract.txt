@@ -1,0 +1,32 @@
+CHANGELOG EXTRACTION REPORT
+===========================
+Generated Date: 2026-02-20
+Repository: pramilavhalyal/BasicCalculatorMavenBuild
+
+EXTRACTED DATA:
+===============
+
+Generated Lines in File: 30
+User Who Checked In: pramilavhalyal
+Commit Date/Time: 2026-02-20 12:01:17 IST
+Commit SHA: eb775ef6e51d02e1279e99463ae382ec229f6e24
+
+FILE DETAILS:
+=============
+File Name: changelog.md
+Source Line: Line 6
+Full Text: Generated lines in file (inside Copilot-marked blocks): 30
+
+MODIFICATION DETAILS:
+====================
+File Modified: BasicCalculator.java
+Location: Junit Code/2.BasicCalculatorMavenBuild/src/main/java/com/cts/sonarhandson/BasicCalculator.java
+Methods Touched: addThreeNumbers(int,int,int), isPrime(int), isComposite(int)
+
+SUMMARY:
+========
+This report contains the number of generated lines within Copilot-marked blocks
+and the user who checked in the changelog.md file.
+
+Total Generated Lines: 30
+Checked In By: pramilavhalyal
